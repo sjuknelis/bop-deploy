@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bop-deploy/admin/static/css/main.2544e43a.css",
+    "main.js": "/bop-deploy/admin/static/js/main.8a22cfa9.js",
+    "index.html": "/bop-deploy/admin/index.html",
+    "main.2544e43a.css.map": "/bop-deploy/admin/static/css/main.2544e43a.css.map",
+    "main.8a22cfa9.js.map": "/bop-deploy/admin/static/js/main.8a22cfa9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2544e43a.css",
+    "static/js/main.8a22cfa9.js"
+  ]
+}
